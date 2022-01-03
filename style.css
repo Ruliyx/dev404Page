@@ -14,11 +14,6 @@ body {
   user-select: none;
 }
 
-@font-face {
-  font-family: 'Source Code Pro';
-  src: url(SourceCodePro-VariableFont_wght.ttf);
-}
-
 .background {
   z-index: 99;
   height: 100%;
